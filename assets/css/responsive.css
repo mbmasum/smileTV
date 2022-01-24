@@ -1,0 +1,386 @@
+@media(min-width: 320px) and (max-width: 575px){
+    #top-part .video_content iframe {
+        width: 100%;
+        height: 200px;
+    }
+    #top-part .item img {
+        width: 100%;
+    }
+    #top-part h5 {
+        font-size: 14px;
+    }
+    #top-part ul li {
+        margin-left: 2px;
+    }
+    #top-part ul {
+        margin-top: 10px;
+        text-align: left;
+    }
+    #headline-part .headline .title {
+        width: 30%;
+    }
+    .add_text{
+        margin-top: 3px;
+    }
+    #front-part ul li button {
+        padding: 10px 24px;
+    }
+
+    .title .title_text {
+        width: 45%;
+    }
+    #economics-part .right .title .title_text {
+        width: 50%;
+    }
+    #sports-part .title .title_text {
+        width: 50%;
+    }
+    footer .item h4 {
+        margin: 10px 0;
+    }
+    footer .item {
+        margin-top: 0px;
+    }
+    footer .address-left h5 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    footer .address-right h5 {
+        font-size: 18px;
+        text-align: center;
+    }
+    #bottom-part .item-right {
+        justify-content: center;
+    }
+    #bottom-part .item p {
+        text-align: center;
+    }
+    #single_page .menu .home {
+        width: 26%;
+    }
+    #single_page .menu .others {
+        width: 75%;
+    }
+    #single_page textarea {
+        width: 100%;
+    }
+    #single_page ul li button {
+        padding: 10px 20px;
+    }
+    #single_page ul{
+        margin-top: 5px;
+    }
+    #catagory-part ul li button {
+        padding: 10px 20px;
+    }
+    #catagory-part ul{
+        margin-top: 5px;
+    }
+    #front-part .other-news .news_1 .overlay .text a {
+        font-size: 22px;
+    }
+    #front-part .other-news .news_2 .overlay .text a {
+        font-size: 18px;
+    }
+    #front-part .other-news .news_3 .overlay .text a {
+        font-size: 18px;
+    }
+    #front-part .other-news .news_4 .overlay .text a {
+        font-size: 18px;
+    }
+    #front-part .other-news .news_5 .overlay .text a {
+        font-size: 18px;
+    }
+
+
+
+}
+
+
+@media(min-width: 576px) and (max-width: 767px){
+    #top-part .item img {
+        width: 70%;
+    }
+    #top-part .video_content iframe {
+        height: 285px;
+    }
+    #top-part .item{
+        text-align: center;
+    }
+    #top-part h5 {
+        font-size: 20px;
+    }
+    #top-part ul li {
+        margin-left: 5px;
+    }
+    #top-part ul {
+        text-align: center;
+    }
+    .add_text{
+        margin-top: 3px;
+    }
+    #front-part ul li button {
+        padding: 10px 79px;
+    }
+    #front-part .previous_news .calender input {
+        width: 85%;
+    }
+
+    .title .title_text {
+        width: 45%;
+    }
+    #economics-part .right .title .title_text {
+        width: 50%;
+    }
+    #sports-part .title .title_text {
+        width: 50%;
+    }
+    footer .img{
+        text-align: center;
+    }
+    footer .img img {
+        width: 60%;
+    }
+    footer .item h4 {
+        margin: 10px 0;
+    }
+    footer .item {
+        margin-top: 0px;
+    }
+    footer .address-left h5 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    footer .address-right h5 {
+        font-size: 18px;
+        text-align: center;
+    }
+    #catagory-part .serial_news h4 a {
+        font-size: 24px;
+    }
+    #bottom-part .item-right {
+        justify-content: center;
+    }
+    #bottom-part .item p {
+        text-align: center;
+    }
+    #single_page .other-news .news_1 .overlay .text {
+        width: 100%;
+    }
+    #single_page .other-news .news_2 .overlay .text {
+        width: 100%;
+    }
+    #single_page .other-news .news_3 .overlay .text {
+        width: 100%;
+    }
+    #single_page .other-news .news_4 .overlay .text {
+        width: 100%;
+    }
+    #single_page .other-news .news_5 .overlay .text {
+        width: 100%;
+    }
+    #single_page .menu .home {
+        width: 26%;
+    }
+    #single_page .menu .others {
+        width: 75%;
+    }
+    #single_page textarea {
+        width: 100%;
+    }
+    #single_page ul li button {
+        padding: 10px 76px;
+    }
+    #single_page ul{
+        margin-top: 5px;
+    }
+    #catagory-part ul li button {
+        padding: 10px 20px;
+    }
+    #catagory-part ul{
+        margin-top: 5px;
+    }
+
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+    #top-part .item img {
+        width: 90%;
+    }
+    #top-part h5 {
+        font-size: 14px;
+    }
+    #top-part form input {
+        width: 65%;
+    }
+    #top-part form button {
+        padding: 4px 9px;;
+    }
+    #top-part ul {
+        text-align: left;
+    }
+    #top-part ul li {
+        margin-left: 1px;
+    }
+    #top-part ul li a i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    #front-part .other-news .news_1 .overlay .text a {
+        font-size: 19px;
+    }
+    #front-part .other-news .news_2 .overlay .text a {
+        font-size: 15px;
+    }
+    #front-part .other-news .news_3 .overlay .text a {
+        font-size: 15px;
+    }
+    #front-part .other-news .news_4 .overlay .text a {
+        font-size: 15px;
+    }
+    #front-part .other-news .news_5 .overlay .text a {
+        font-size: 15px;
+    }
+    .headding_2 {
+        font-size: 16px;
+    }
+    .scroll_background .comment .comment_title a {
+        font-size: 14px;
+    }
+    #front-part .previous_news h5 {
+        font-size: 16px;
+    }
+    #front-part .previous_news .calender button {
+        padding: 5px 2px;
+    }
+    #front-part .previous_news .calender input {
+        width: 60%;
+    }
+    .title .title_text {
+        width: 30%;
+    }
+    #economics-part .right .title .title_text {
+        width: 65%;
+    }
+    .headding_3 {
+        font-size: 16px;
+    }
+    #saradesh-part .slider_img h5 a {
+        font-size: 14px;
+    }
+    #sports-part .title .title_text {
+        width: 65%;
+    }
+    footer .item h4 {
+        font-size: 14px;
+    }
+    footer .item h4:hover {
+        margin-left: 5px;
+    }
+    footer .item {
+        margin-left: 0px;
+    }
+    #catagory-part .serial_news h4 a {
+        font-size: 18px;
+    }
+    #catagory-part ul li button {
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+    footer .address-right h5 {
+        font-size: 14px;
+    }
+    footer .address-left h5 {
+        font-size: 14px;
+    }
+
+    #single_page .menu .home {
+        width: 18%;
+    }
+    #single_page .menu .others {
+        width: 50%;
+    }
+    #single_page .news_details .details p::after {
+        width: 124%;
+    }
+    #single_page ul li button {
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+    #single_page .single-details p {
+        font-size: 15px;
+    }
+    #single_page .other-news .news_1 .overlay .text a {
+        font-size: 15px;
+    }
+    #single_page .other-news .news_2 .overlay .text a {
+        font-size: 15px;
+    }
+    #single_page .other-news .news_3 .overlay .text a {
+        font-size: 15px;
+    }
+    #single_page .other-news .news_4 .overlay .text a {
+        font-size: 15px;
+    }
+    #single_page .other-news .news_5 .overlay .text a {
+        font-size: 15px;
+    }
+    #single_page .other-news .news_6 .overlay .text a {
+        font-size: 15px;
+    }
+    #single_page textarea {
+        width: 100%;
+    }
+    #portfolio-part .item .text a {
+        font-size: 18px;
+    }
+    #photo_gallery-part .national_text a {
+        font-size: 15px;
+    }
+
+
+}
+
+
+@media(min-width: 992px) and (max-width: 1199px){
+    #top-part .item img {
+        width: 70%;
+    }
+    #top-part .video_content iframe {
+        height: 375px;
+    }
+    #top-part ul {
+        text-align: left;
+    }
+    #top-part ul li {
+        margin-left: 5px;
+    }
+    #front-part ul li button {
+        font-size: 16px;
+        padding: 10px 7px;
+    }
+    #headline-part .headline .title {
+        width: 12%;
+    }
+    #front-part .previous_news .calender input {
+        width: 64%;
+    }
+    #sports-part .title .title_text {
+        width: 45%;
+    }
+    #catagory-part ul li button {
+        padding: 10px 21px;
+    }
+    #single_page .menu .others {
+        width: 30%;
+    }
+    #single_page ul li button {
+        padding: 10px 21px;
+    }
+
+
+
+}
